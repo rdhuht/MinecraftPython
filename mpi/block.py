@@ -1,6 +1,8 @@
 """
 Blocks in Minecraft.
 """
+
+
 class Block:
     """Minecraft PI block description. Can be sent to Minecraft.setBlock/s"""
 
