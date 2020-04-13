@@ -1,4 +1,6 @@
-# encoding: utf-8
+"""
+Entities in Minecraft.
+"""
 class Entity:
     """Minecraft PI entity description. Can be sent to Minecraft.spawnEntity"""
 

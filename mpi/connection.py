@@ -1,4 +1,6 @@
-# encoding: utf-8
+"""
+Connect to Minecraft Server.
+"""
 import select
 import socket
 import sys

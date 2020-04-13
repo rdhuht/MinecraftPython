@@ -1,3 +1,6 @@
+"""
+Draw text in Minecraft.
+"""
 import mpi.minecraft as minecraft
 
 ALIGN_LEFT = 0

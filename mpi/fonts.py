@@ -1,3 +1,6 @@
+"""
+Fonts used in text.py
+"""
 FONTS = {}
 
 FONTS['8x8'] = {

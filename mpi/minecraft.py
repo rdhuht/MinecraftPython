@@ -1,3 +1,6 @@
+"""
+Minecraft Python Raspberry API
+"""
 import math
 
 from mpi.block import Block

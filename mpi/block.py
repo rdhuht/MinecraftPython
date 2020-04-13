@@ -1,4 +1,6 @@
-# encoding: utf-8
+"""
+Blocks in Minecraft.
+"""
 class Block:
     """Minecraft PI block description. Can be sent to Minecraft.setBlock/s"""
 

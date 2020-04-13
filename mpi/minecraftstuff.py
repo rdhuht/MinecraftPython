@@ -1,5 +1,6 @@
-# encoding: utf-8
-
+"""
+Interesting stuff, making your blocks alive!
+"""
 import math
 import time
 
