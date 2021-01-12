@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mpi",  # Replace with your own username
-    version="0.0.2",
+    version="1.0.1",
     author="rdhuht",
     author_email="xinhuaxilu6@gmail.com",
     description="Minecraft Pi API",

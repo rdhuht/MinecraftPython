@@ -1,5 +1,5 @@
 # MinecraftPython
-Sample Python scripts and notes for using the Python mcpi library for manipulating and working with Minecraft.  
+Sample Python scripts and notes for using the Python mpi library for manipulating and working with Minecraft.  
 I use these scripts and the library to explore Python3.  
 
 ## Getting Started 
@@ -8,30 +8,23 @@ This is most simply achieved with the Minecraft for Raspberry Pi, but can also w
 
 > Details of setting up the server side are out of scope for these instructions, it is assumed you already have the server running and a game client connected.  
 
-1. Clone down this repository.  
+
+1. Setup a Python virtual environment.  Python3.x was used with these examples and is recommended.  Install 
 
 ```bash
-git clone https://github.com/rdhuht/MinecraftPython.git
-cd MinecraftPython
+python -m venv venv
 ```
 
-2. Setup a Python virtual environment.  Python3.x was used with these examples and is recommended.  Install 
+2. Install `mpi` 
 
 ```bash
-python3.7 -m venv venv
+pip install mpi
 ```
 
-3. Install `MinecraftPython` 
-
-```bash
-pip install MinecraftPython
-```
-
-4. Verify all is working by running the following in an interpreter.  
+3. Verify all is working by running the following in an interpreter.  
 
 ```python
-# use somebody else's code
-from mcpi.minecraft import Minecraft
+from mpi.minecraft import Minecraft
 
 name = "Yourname"
 # connect to minecraft
@@ -48,7 +41,7 @@ print("x: {}, y: {}, z: {}".format(position.x, position.y, position.z))
 
 ## Resources and References 
 * [Learn to Program with Minecraft](https://nostarch.com/programwithminecraft)  
-* [https://github.com/martinohanlon/mcpi](https://github.com/martinohanlon/mcpi)
+* [https://github.com/martinohanlon/mpi](https://github.com/martinohanlon/mpi)
 * [https://github.com/zhuowei/RaspberryJuice](https://github.com/zhuowei/RaspberryJuice)
 * [https://www.stuffaboutcode.com/p/minecraft-api-reference.html](https://www.stuffaboutcode.com/p/minecraft-api-reference.html) 
 * [https://minecraft-stuff.readthedocs.io/en/latest/index.html](https://minecraft-stuff.readthedocs.io/en/latest/index.html)
