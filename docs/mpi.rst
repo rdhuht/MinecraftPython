@@ -7,7 +7,7 @@ Submodules
 mpi.block module
 ----------------
 
-.. automodule:: mpi.block
+.. automodapi:: mpi.block
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ mpi.block module
 mpi.connection module
 ---------------------
 
-.. automodule:: mpi.connection
+.. automodapi:: mpi.connection
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ mpi.connection module
 mpi.entity module
 -----------------
 
-.. automodule:: mpi.entity
+.. automodapi:: mpi.entity
    :members:
    :undoc-members:
    :show-inheritance:
@@ -31,7 +31,7 @@ mpi.entity module
 mpi.event module
 ----------------
 
-.. automodule:: mpi.event
+.. automodapi:: mpi.event
    :members:
    :undoc-members:
    :show-inheritance:
@@ -39,7 +39,7 @@ mpi.event module
 mpi.fonts module
 ----------------
 
-.. automodule:: mpi.fonts
+.. automodapi:: mpi.fonts
    :members:
    :undoc-members:
    :show-inheritance:
@@ -47,7 +47,7 @@ mpi.fonts module
 mpi.minecraft module
 --------------------
 
-.. automodule:: mpi.minecraft
+.. automodapi:: mpi.minecraft
    :members:
    :undoc-members:
    :show-inheritance:
@@ -55,7 +55,7 @@ mpi.minecraft module
 mpi.minecraftstuff module
 -------------------------
 
-.. automodule:: mpi.minecraftstuff
+.. automodapi:: mpi.minecraftstuff
    :members:
    :undoc-members:
    :show-inheritance:
@@ -63,7 +63,7 @@ mpi.minecraftstuff module
 mpi.text module
 ---------------
 
-.. automodule:: mpi.text
+.. automodapi:: mpi.text
    :members:
    :undoc-members:
    :show-inheritance:
@@ -71,7 +71,7 @@ mpi.text module
 mpi.util module
 ---------------
 
-.. automodule:: mpi.util
+.. automodapi:: mpi.util
    :members:
    :undoc-members:
    :show-inheritance:
@@ -79,7 +79,7 @@ mpi.util module
 mpi.vec3 module
 ---------------
 
-.. automodule:: mpi.vec3
+.. automodapi:: mpi.vec3
    :members:
    :undoc-members:
    :show-inheritance:
@@ -87,7 +87,7 @@ mpi.vec3 module
 Module contents
 ---------------
 
-.. automodule:: mpi
+.. automodapi:: mpi
    :members:
    :undoc-members:
    :show-inheritance:
